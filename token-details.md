@@ -4,4 +4,4 @@ URL: https://content-service.bfda.live.use1a.on.epicgames.com/oauth/v1/token-det
 
 Method: GET
 
-Auth Required: Yes (Bearer)
+Auth Required: (Bearer)
