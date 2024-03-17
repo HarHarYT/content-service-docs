@@ -1,4 +1,4 @@
-##Base Urls
+## Base Urls
 adminApiBaseUrl: /admin/api/content
 
 identityApiBaseUrl: /api/identity/v1
